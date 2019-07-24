@@ -1,0 +1,23 @@
+jenkins pipeline real-time
+--------------------------
+In this video we learn How to write jenkins pipeline script
+what is pipeline?
+what is declarative pipeline and script based pipeline?
+How to write a pipleine syntax?
+write pipeline using groovy box?
+write a pipeline using Jenkinsfile ?
+push to jenkins file github?
+tomcat webUI deploy and undeploy war?
+How to generate pipeline syntax?
+real-time Jenkins pipeline explanation
+
+pipeline script
+---------------
+
+get the source code form github.
+build with maven
+create artifact 
+deploying into tomcat
+
+using jenkins pipeline groovy sandbox
+using Jenkinsfile
